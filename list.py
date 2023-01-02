@@ -15,6 +15,6 @@ print("remove : ",list3)
 list3.reverse()
 print("reverse : ",list3)
 list3.sort()
-print("sort : ",list3)
+print("sort :  ",list3)
 
 
